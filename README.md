@@ -6,4 +6,5 @@ Meu nome è Fernanda Victoria
 -Estou me desenvolvendo na linguagem JavaScript
 -Utilizo este espaço para minha organizaçao e compartilhamento dos projetos desenvolvidos 
 
-###
+###Voce entrar em contato comigo!!1
+feralves175t@gmail.com
